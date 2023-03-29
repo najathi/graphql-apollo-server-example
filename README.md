@@ -1,1 +1,1 @@
-"# graphql-apollo-server-example" 
+# graphql-apollo-server-example
